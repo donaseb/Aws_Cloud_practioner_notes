@@ -23,4 +23,6 @@
 21 Aws transit gateway: connects aws vpc and onpremises network through a central hub.
 22 AWs artifact :compliance related
 23 AWS storage gateway : hybrid storage service that provides on premises acces to unlimited  cloud storage.
-24
+24 AWS market place : enables qualified partners to market and sell their software to the aws customers,it is an online software store that helps customers find,buy and immediately start using the software and servcies that run on aws.
+25.Snowball Edge devices have Amazon S3 and Amazon EC2 compatible endpoints available, enabling programmatic use cases
+  26.
