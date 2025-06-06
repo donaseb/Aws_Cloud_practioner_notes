@@ -25,4 +25,7 @@
 23 AWS storage gateway : hybrid storage service that provides on premises acces to unlimited  cloud storage.    
 24 AWS market place : enables qualified partners to market and sell their software to the aws customers,it is an online software store that helps customers  find,buy and immediately start using the software and servcies that run on aws.    
 25.Snowball Edge devices have Amazon S3 and Amazon EC2 compatible endpoints available, enabling programmatic use cases    
-26.
+26.Amazon Snowball is a petabyte-scale data transfer service that provides cost efficient data transfer to AWS from tamper proof physical devices.
+27 AWs Rekognition: Rekognition Image is an image recognition service that detects objects, scenes, and faces; extracts text; recognizes celebrities; and identifies inappropriate content in images. It also allows you to search and compare faces. Rekognition Image is based on the same proven, highly scalable, deep learning technology developed by Amazon's computer vision scientists to analyze billions of images daily for Prime Photos
+28 Aws Polly : converts text to lifelike speech.
+29 Aws shield : protect against DDos attack.
