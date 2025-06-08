@@ -29,3 +29,5 @@
 27 AWs Rekognition: Rekognition Image is an image recognition service that detects objects, scenes, and faces; extracts text; recognizes celebrities; and identifies inappropriate content in images. It also allows you to search and compare faces. Rekognition Image is based on the same proven, highly scalable, deep learning technology developed by Amazon's computer vision scientists to analyze billions of images daily for Prime Photos
 28 Aws Polly : converts text to lifelike speech.
 29 Aws shield : protect against DDos attack.
+30. Aws EMR(ELasticmap reduce ): it provides a managed Haddop framework using elastic infrastructure of AWS ec2 and s3.It distributes computation of data accross multiple ec2 instances.
+  
